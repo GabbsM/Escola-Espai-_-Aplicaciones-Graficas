@@ -1,0 +1,4 @@
+3. ¿Qué relación existe entre ellos?
+
+  La clase Container es una clase abstracta derivada de Component, que representa a cualquier componente
+  que pueda contener otros componentes.

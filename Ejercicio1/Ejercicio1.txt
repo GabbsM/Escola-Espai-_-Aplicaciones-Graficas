@@ -1,0 +1,7 @@
+1. ¿Qué es un Component?
+
+Un componente es el objeto fundamental de la interfaz de usuario en Java. Todo lo que se ve en la pantalla
+ de una aplicación Java es un componente.
+
+Esto incluye cosas como ventanas, paneles, botones, casillas de verificación, barras de desplazamiento,
+listas, menús y campos de texto.

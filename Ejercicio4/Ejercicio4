@@ -1,0 +1,4 @@
+4. ¿Qué es un Listener?
+    Los Listeners (oyentes o escuchadores en español) se encargan de controlar los eventos, esperan a
+    que el evento se produzca y realiza una serie de acciones. Según el evento, necesitaremos un Listener
+    que lo controle

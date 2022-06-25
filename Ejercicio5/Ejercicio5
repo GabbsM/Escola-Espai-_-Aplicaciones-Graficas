@@ -1,0 +1,6 @@
+5. Explica qué estamos haciendo con el siguiente código:
+
+Panel1.setLayout(new GridLayout(3, 5))
+
+Estamos dando una posicion a un set dentro del objeto Panel1
+

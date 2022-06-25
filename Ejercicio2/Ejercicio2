@@ -1,0 +1,6 @@
+2. ¿Qué es un Container?
+
+ Container es una clase abstracta derivada de Component, que representa a cualquier componente que pueda
+ contener otros componentes.
+ Se trata, en esencia, de añadir a la clase Component la funcionalidad de adición, sustracción,
+ recuperación, control y organización de otros componentes.
